@@ -1,0 +1,2 @@
+# GMockApp
+GMock Sample
